@@ -6,7 +6,7 @@
   - [Malware Detection](https://github.com/Hanieh-H/Malware-Detection/tree/main)
   - [SQL Injection](https://github.com/Hanieh-H/SQL-Injection-Lab/blob/main/README.md)
   - [Programming Exploits - IDS Rule Development](https://github.com/joshcybertest/Cloud-SOC)
-  - [TCP/IP attack](https://github.com/joshcybertest/Cloud-SOC)
+  - [TCP/IP attack](https://github.com/Hanieh-H/TCP-IP-Attack/tree/main)
  
   
 <h2>📺YouTube Videos</h2>
