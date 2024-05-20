@@ -7,7 +7,7 @@
   - [SQL Injection](https://github.com/joshcybertest/Cloud-SOC)
   - [Programming Exploits - IDS Rule Development](https://github.com/joshcybertest/Cloud-SOC)
   - [TCP/IP attack](https://github.com/joshcybertest/Cloud-SOC)
-  - 
+ 
   
 <h2>📺YouTube Videos</h2>
 
