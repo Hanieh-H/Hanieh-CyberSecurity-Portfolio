@@ -4,9 +4,9 @@
 
 - <b>Cybersecurity Projects</b>
   - [Malware Detection](https://github.com/Hanieh-H/Hanieh-CyberSecurity-Portfolio/blob/main/Security%20Labs/Malware-Detection-Yaratool.pdf)
-  - [SQL Injection](https://github.com/Hanieh-H/SQL-Injection-Lab/blob/main/README.md)
-  - [TCP/IP attack](https://github.com/Hanieh-H/TCP-IP-Attack/tree/main)
- 
+  - [SQL Injection](https://github.com/Hanieh-H/Hanieh-CyberSecurity-Portfolio/blob/main/Security%20Labs/SQL%20Injection.docx)
+  - [TCP/IP attack](https://github.com/Hanieh-H/Hanieh-CyberSecurity-Portfolio/blob/main/Security%20Labs/TCP-IP%20Attack.docx)
+  - [Buffer Over Flow](https://github.com/Hanieh-H/Hanieh-CyberSecurity-Portfolio/blob/main/Security%20Labs/BufferOverFlow.docx)
   
 <h2>📺YouTube Videos</h2>
 
